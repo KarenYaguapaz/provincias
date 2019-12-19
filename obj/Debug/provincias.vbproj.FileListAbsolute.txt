@@ -1,0 +1,12 @@
+C:\Users\Karen\source\repos\provincias\provincias\bin\Debug\provincias.exe.config
+C:\Users\Karen\source\repos\provincias\provincias\bin\Debug\provincias.exe
+C:\Users\Karen\source\repos\provincias\provincias\bin\Debug\provincias.pdb
+C:\Users\Karen\source\repos\provincias\provincias\bin\Debug\provincias.xml
+C:\Users\Karen\source\repos\provincias\provincias\obj\Debug\provincias.vbprojAssemblyReference.cache
+C:\Users\Karen\source\repos\provincias\provincias\obj\Debug\provincias.Form1.resources
+C:\Users\Karen\source\repos\provincias\provincias\obj\Debug\provincias.Resources.resources
+C:\Users\Karen\source\repos\provincias\provincias\obj\Debug\provincias.vbproj.GenerateResource.cache
+C:\Users\Karen\source\repos\provincias\provincias\obj\Debug\provincias.vbproj.CoreCompileInputs.cache
+C:\Users\Karen\source\repos\provincias\provincias\obj\Debug\provincias.exe
+C:\Users\Karen\source\repos\provincias\provincias\obj\Debug\provincias.xml
+C:\Users\Karen\source\repos\provincias\provincias\obj\Debug\provincias.pdb
